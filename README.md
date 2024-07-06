@@ -1,6 +1,7 @@
 # Finances app
 
 Financial Transaction Management and Analysis app to categorize and visualize financial transactions data in OFX. Made with React + Typescript + d3.
+It enables users to upload, categorize, filter, and visualize financial transactions from OFX files.
 
 ![](out.gif)
 
